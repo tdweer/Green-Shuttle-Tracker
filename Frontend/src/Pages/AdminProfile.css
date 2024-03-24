@@ -1,0 +1,57 @@
+.admin-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  border: 2px solid black;
+  padding: 20px;
+  margin-left: 500px;
+  margin-right: 500px;
+  border-radius: 30px;
+}
+
+.admin-form label {
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: 'Poppins';
+  font-weight: 500;
+font-size: 16px;
+line-height: 45px;
+
+
+}
+
+.admin-form input[type="text"],
+.admin-form input[type="email"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 4px 8px #93CDB1;
+  margin-bottom: 20px;
+  width: 100%;
+  max-width: 300px;
+  font-family: 'Poppins';
+
+/* identical to box height */
+
+
+color: #000000;
+
+
+  
+  
+}
+
+.admin-form button {
+  background-color: #93CDB1;
+  color: #FFF;
+  padding: 15px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  width:320px;
+}
+.button:hover
+{
+  color: green;
+}
