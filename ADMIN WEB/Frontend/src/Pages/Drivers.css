@@ -1,0 +1,119 @@
+.drivers
+{
+position: absolute;
+width: 70px;
+height: 31px;
+left: 312px;
+top: 70px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+
+/* Light Version/Type/Text Dark */
+
+color: #06152B;
+
+}
+.button
+{
+position: absolute;
+position: absolute;
+width: 150px;
+height: 40px;
+left: 1170px;
+top: 167px;
+background: #3699FF;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+color: #FFFFFF;
+line-height: 18px;
+border-radius: 5px;
+}
+table {
+    border-collapse: collapse;
+    width: 954px;
+    margin-left: 312px;
+    margin-top: 120px;
+    
+  }
+  
+  th{
+    background: #ffffff; 
+    box-shadow: inset 0px -2px 0px #E3E5E8;
+    width: 296.42px;
+    height: Hug(52)px;
+    padding: 16px;
+    gap: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color:#8F97A3;
+    
+
+  }
+
+  td {
+    width: 187.39px;
+    height: Hug (48px);
+    padding: 14px 16px;
+    background: #FFFFFF;
+    
+    text-align: left;
+  }
+  
+  th {
+    background-color: #E5E5E5;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #E5E5E5;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+  }
+  
+  .actions button {
+    padding: 4px;
+    margin-right: 4px;
+  }
+  
+  .search-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px; /* add some margin to separate the search from the table */
+    margin-top: 150px;
+    margin-left: 500px;
+    margin-right: 950px;
+  }
+  
+  .search-container input {
+    width: 200px; /* adjust the width of the search input as needed */
+  }
+  
+  
+    
+    .button1 {
+    position: absolute;
+    top: 175px;
+    right: 80px;
+    cursor: pointer;
+    width: 150px;
+    height: 40px;
+    background: #3699FF;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    color: #FFFFFF;
+    line-height: 18px;
+    border-radius: 5px;
+    }
