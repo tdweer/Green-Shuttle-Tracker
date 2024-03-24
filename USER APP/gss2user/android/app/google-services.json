@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299455770297",
+    "firebase_url": "https://gssstudents-7b34a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gssstudents-7b34a",
+    "storage_bucket": "gssstudents-7b34a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299455770297:android:a0ca91e7029f5635a1b568",
+        "android_client_info": {
+          "package_name": "com.buwagroup24.gss2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299455770297-32ij9m8n29ri4v6tguuqd5vako6gnagc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZrwW8V0UrX5AR0VQ20ROXd1KDjW1ovvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299455770297-32ij9m8n29ri4v6tguuqd5vako6gnagc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
